@@ -8,8 +8,6 @@ Ho creato questa repository per salvare tutto quello che sto imparando sul mondo
 
 ## Parti Essenziali da Applicare in Moto
 
-## Parti Essenziali da Applicare in Moto
-
 ### 1: **Guarda Dove Vuoi Andare (Non l'Ostacolo)**
 - La moto segue lo sguardo
 - Evita la Target Fixation: non fissarti sull'ostacolo che vuoi evitare

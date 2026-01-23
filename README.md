@@ -16,6 +16,14 @@ Ho creato questa repository per salvare tutto quello che sto imparando sul mondo
 - [Comparativa Hardware](#comparativa-hardware)
 - [Mantra Finale](#mantra-finale)
 
+### Approfondimenti Tecnici (Notebooks)
+- [Le Basi di una buona guida](https://github.com/Mike014/The-BassTorque-Kernel/blob/main/Reading/Le_Basi.ipynb)
+- [Nick Ienatsch Show's (Sport Riding Techniques)](https://github.com/Mike014/The-BassTorque-Kernel/blob/main/Reading/Sport_Riding_Techniques.ipynb)
+- [La Cilindrata: Analisi Meccanica](https://github.com/Mike014/The-BassTorque-Kernel/blob/main/Reading/LaCilindrata.ipynb)
+- [Le Cruiser e la Royal Enfield](https://github.com/Mike014/The-BassTorque-Kernel/blob/main/Reading/Cruiser_RoyalEnfield.ipynb)
+
+---
+
 # SPORT RIDING TECHNIQUES - CHEATSHEET
 
 ## CONCETTO FONDAMENTALE: L'Anello Debole
